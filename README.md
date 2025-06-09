@@ -1,7 +1,7 @@
 
 # 🏥 Hospital Management System - PostgreSQL Project
 
-This project is a comprehensive **Hospital Management System** implemented using **PostgreSQL**. It is designed to demonstrate real-world database administration, modeling, and querying skills suitable for showcasing in your **GitHub portfolio** or **resume**.
+This project is a comprehensive **Hospital Management System** implemented using **PostgreSQL**. It is designed to demonstrate real-world database administration, modeling, and querying skills.
 
 ---
 
