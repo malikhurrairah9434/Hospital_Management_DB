@@ -76,3 +76,6 @@ Shows number of appointments for each doctor specialization in the last 7 days.
 Made for database practice and portfolio building.  
 Inspired by real-world hospital workflows.
 
+## 📊 Entity-Relationship Diagram (ERD)
+![ERD](./ERD.png)
+
